@@ -1,0 +1,1 @@
+This is a simple decision tree classifier written in haskell based from the Haskell Data Analysis Cookbook. I do this in hopes that it will help me better understand Support Vector Machine classification. Also, implementing it in Haskell if possible.
